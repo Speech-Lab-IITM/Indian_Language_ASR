@@ -1,0 +1,7 @@
+batchsize: 1
+beam-size:  20        #60
+ctc-weight: 0.3     #0.4
+lm-weight: 0.2          #0.2
+maxlenratio: 0.0
+minlenratio: 0.0
+penalty: 0.0
