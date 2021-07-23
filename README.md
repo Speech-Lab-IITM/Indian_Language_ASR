@@ -19,10 +19,10 @@ The data set comprises of Hindi, Tamil and Indian-English read and conversationa
 Lexicon has also been made available. The lexicon was generated using the [Unified-parser](https://www.iitm.ac.in/donlab/tts/unified.php) (Hindi and Tamil) and [CMU Lexicon tool](http://www.speech.cs.cmu.edu/tools/lextool.html) (Indian-English). The Hindi and English data released in this challenge includes the Hindi data released in the [first challenge](https://sites.google.com/view/asr-challenge/home) and "IITM" English data released in the [second challenge](https://sites.google.com/view/englishasrchallenge/home) respectively. So approximately 490 hours + 200 hours (NPTEL data from second challenge) = 690 hours of transcribed speech data has been released through these three challenges.
 
 ## IMPORTANT DATES
-1.Release of training data, development data and, lexicon: May 13, 2021
-2.Evaluation data release and opening of submission site: ~~July 7th, 2021~~ July 14th, 2021
-3.Closing of submission site: ~~July 14th, 2021~~ July 21st, 2021(midnight anywhere in the world, i.e., 12pm UTC on July 21st, 2021)
-4.Announcement of results: July 22nd, 2021
+* Release of training data, development data and, lexicon: May 13, 2021
+* Evaluation data release and opening of submission site: ~~July 7th, 2021~~ July 14th, 2021
+* Closing of submission site: ~~July 14th, 2021~~ July 21st, 2021(midnight anywhere in the world, i.e., 12pm UTC on July 21st, 2021)
+* Announcement of results: July 22nd, 2021
 
 ## Models
 
